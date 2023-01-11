@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/@arpit_comder" target="blank"><img src="https://img.shields.io/twitter/follow/@arpit_comder?logo=twitter&style=for-the-badge" alt="@arpit_comder" /></a> </p>
 
-- 🔭 I’m currently working on **Web Devlopment**
+- 🔭 I’m currently working on **Web Development**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms, Web Devlopment**
+- 🌱 I’m currently learning **Data Structures and Algorithms, Web Development**
 
 - 📫 How to reach me **hopesarestillalive@gmail.com**
 
