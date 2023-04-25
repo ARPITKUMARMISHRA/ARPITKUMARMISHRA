@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arpit Kumar Mishra</h1>
+<h1 align="center">Hi 👋, I'm Arpit </h1>
 
 <img align="center" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
